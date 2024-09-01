@@ -27,7 +27,7 @@ I'm a Master's Student in Aerospace Engineering at [Técnico][tecnico]. Original
 
 I'm always eager to take on new challenges and collaborate. Feel free to explore my repositories and get in touch!
 
-[linkedin]: https://www.linkedin.com/in/pedrocorreia2003/
+[linkedin]: https://www.linkedin.com/in/pedrodcorreia/
 [instagram]: https://www.instagram.com/pjdc2003/
 [tecnico]: https://tecnico.ulisboa.pt/
 
